@@ -1,6 +1,6 @@
 # 🚀 Crypto App
 
-Welcome to the Crypto App! Stay up-to-date with the latest prices and details of the top 100 cryptocurrencies.
+Welcome to the [Crypto App!](https://cryptoappj.netlify.app) Stay up-to-date with the latest prices and details of the top 100 cryptocurrencies.
 
 ## ✨ Features
 
